@@ -1,10 +1,10 @@
 [
   {
-    "package": "CoRpower",
+    "package": "speff2trial",
     "oncran": true
   },
   {
-    "package": "futility",
+    "package": "CoRpower",
     "oncran": true
   },
   {
@@ -12,7 +12,7 @@
     "oncran": true
   },
   {
-    "package": "seqDesign",
+    "package": "futility",
     "oncran": true
   },
   {
@@ -20,7 +20,7 @@
     "oncran": true
   },
   {
-    "package": "speff2trial",
+    "package": "seqDesign",
     "oncran": true
   }
 ]

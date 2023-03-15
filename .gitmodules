@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "speff2trial"]
+	path = speff2trial
+	url = https://github.com/mjuraska/speff2trial
+	shallow = true
+	registered = true
 [submodule "CoRpower"]
 	path = CoRpower
 	url = https://github.com/mjuraska/corpower
-	shallow = true
-	registered = true
-[submodule "futility"]
-	path = futility
-	url = https://github.com/mjuraska/futility
 	shallow = true
 	registered = true
 [submodule "pssmooth"]
@@ -18,9 +18,9 @@
 	url = https://github.com/mjuraska/pssmooth
 	shallow = true
 	registered = true
-[submodule "seqDesign"]
-	path = seqDesign
-	url = https://github.com/mjuraska/seqdesign
+[submodule "futility"]
+	path = futility
+	url = https://github.com/mjuraska/futility
 	shallow = true
 	registered = true
 [submodule "sievePH"]
@@ -28,8 +28,8 @@
 	url = https://github.com/mjuraska/sieveph
 	shallow = true
 	registered = true
-[submodule "speff2trial"]
-	path = speff2trial
-	url = https://github.com/mjuraska/speff2trial
+[submodule "seqDesign"]
+	path = seqDesign
+	url = https://github.com/mjuraska/seqdesign
 	shallow = true
 	registered = true
