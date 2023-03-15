@@ -1,14 +1,6 @@
 [
   {
-    "package": "speff2trial",
-    "oncran": true
-  },
-  {
     "package": "CoRpower",
-    "oncran": true
-  },
-  {
-    "package": "pssmooth",
     "oncran": true
   },
   {
@@ -16,11 +8,19 @@
     "oncran": true
   },
   {
-    "package": "sievePH",
+    "package": "pssmooth",
     "oncran": true
   },
   {
     "package": "seqDesign",
+    "oncran": true
+  },
+  {
+    "package": "sievePH",
+    "oncran": true
+  },
+  {
+    "package": "speff2trial",
     "oncran": true
   }
 ]
